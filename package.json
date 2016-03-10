@@ -1,0 +1,27 @@
+{
+  "name": "webpack-presentation",
+  "version": "1.0.0",
+  "description": "Example project for Uszanowanko Programowanko",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Marcin Gajda",
+  "license": "CC-BY-SA-4.0",
+  "repository": "none",
+  "dependencies": {
+    "assets-webpack-plugin": "^3.3.0",
+    "coffee": "^3.2.1",
+    "coffee-loader": "^0.7.2",
+    "coffee-script": "^1.10.0",
+    "css": "^2.2.1",
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.8.5",
+    "jquery": "^2.2.1",
+    "node-sass": "^3.4.2",
+    "sass": "^0.5.0",
+    "sass-loader": "^3.1.2",
+    "style": "0.0.3",
+    "style-loader": "^0.13.0",
+    "webpack": "1.12.12"
+  }
+}
